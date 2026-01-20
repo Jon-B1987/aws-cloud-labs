@@ -35,6 +35,21 @@ An AWS Lambda function automatically triggers when a file is uploaded to an S3 b
 
 ---
 
+## 🧪 Lab 2: Lambda Writing Data to DynamoDB
+
+**Description:**  
+An AWS Lambda function processes input events and writes structured data into a DynamoDB table, demonstrating serverless data persistence.
+
+**Services Used:**
+
+- AWS Lambda
+- Amazon DynamoDB
+- IAM
+- CloudWatch
+- Python
+
+📂 [View Lab 2](./lab2_dynamodb_lambda)
+
 ## 🎯 Purpose
 
 This repository serves as a **cloud engineering portfolio** to demonstrate practical AWS experience to recruiters and hiring managers.
