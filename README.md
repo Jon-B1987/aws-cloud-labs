@@ -66,7 +66,7 @@ An API Gateway HTTP API triggers a Lambda function that writes data to a DynamoD
 - CloudWatch
 - Python
 
-📂 View Lab 3
+📂 [View Lab 3](./lab3_api_lambda_dynamodb)
 
 ---
 
